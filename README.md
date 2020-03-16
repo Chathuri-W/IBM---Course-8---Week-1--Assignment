@@ -1,2 +1,1 @@
-# IBM---Course-8---Week-1--Assignment
-IBM - Course 8 - Week 1- Assignment
+**This demonstrates the basics of GitHub bash**
